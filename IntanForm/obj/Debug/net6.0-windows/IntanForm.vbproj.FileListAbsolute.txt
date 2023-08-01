@@ -1,0 +1,17 @@
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.vbproj.AssemblyReference.cache
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.Form1.resources
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.vbproj.GenerateResource.cache
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.AssemblyInfoInputs.cache
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.AssemblyInfo.vb
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.vbproj.CoreCompileInputs.cache
+C:\Users\cheli\source\repos\IntanForm\IntanForm\bin\Debug\net6.0-windows\IntanForm.exe
+C:\Users\cheli\source\repos\IntanForm\IntanForm\bin\Debug\net6.0-windows\IntanForm.deps.json
+C:\Users\cheli\source\repos\IntanForm\IntanForm\bin\Debug\net6.0-windows\IntanForm.runtimeconfig.json
+C:\Users\cheli\source\repos\IntanForm\IntanForm\bin\Debug\net6.0-windows\IntanForm.dll
+C:\Users\cheli\source\repos\IntanForm\IntanForm\bin\Debug\net6.0-windows\IntanForm.pdb
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.dll
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\refint\IntanForm.dll
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.pdb
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\IntanForm.genruntimeconfig.cache
+C:\Users\cheli\source\repos\IntanForm\IntanForm\obj\Debug\net6.0-windows\ref\IntanForm.dll
